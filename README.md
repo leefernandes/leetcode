@@ -1,1 +1,1 @@
-leetcode (and some hacker rank) challenges
+leetcode & hacker rank challenges
